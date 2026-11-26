@@ -29,6 +29,13 @@ two goes first. At 106 characters it sits comfortably
 inside the 140-character gate, and a smaller text wins
 an exact tie on Judge win rate before earlier receipt
 does.
+
+The line deliberately avoids the saturated heat-death /
+end-of-the-universe stock line this family of bounties
+attracts: the dread here is ordinary and close —
+maintaining someone else's code until retirement — which
+is what keeps the comment sounding like a real approval
+rather than a slogan.
 """
 
 import os
